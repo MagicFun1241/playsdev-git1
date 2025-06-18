@@ -1,0 +1,3 @@
+[submodule "module"]
+	path = module
+	url = git@github.com:MagicFun1241/playsdev-git2.git
